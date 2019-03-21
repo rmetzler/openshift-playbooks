@@ -189,7 +189,7 @@ node02.myorg.com openshift_node_labels="{'region': 'primary', 'zone': 'west'}"
 
 ===== 3. Run the Advanced Installer
 
-Run the installer per the instructions in the link:{docs_url}install_config/install/advanced_install.html#running-the-advanced-installation[Advanced Insallation Guide]
+Run the installer per the instructions in the link:{docs_url}install_config/install/advanced_install.html#running-the-advanced-installation[Advanced Installation Guide]
 
 === Custom Certificate SSL Termination (Production)
 
